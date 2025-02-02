@@ -245,3 +245,4 @@ C:\Users\Arthur\Desktop\Exo.WebApi\obj\Debug\net9.0\refint\Exo.WebApi.dll
 C:\Users\Arthur\Desktop\Exo.WebApi\obj\Debug\net9.0\Exo.WebApi.pdb
 C:\Users\Arthur\Desktop\Exo.WebApi\obj\Debug\net9.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\Arthur\Desktop\Exo.WebApi\obj\Debug\net9.0\ref\Exo.WebApi.dll
+C:\Users\Arthur\Desktop\Exo.WebApi\obj\Debug\net9.0\Exo.WebApi.sourcelink.json
